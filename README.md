@@ -27,12 +27,11 @@ Dataset Link: Walmart Sales Dataset
 Storage: Save the data in the data/ folder for easy reference and access.
 
 7. Install Required Libraries and Load Data
-8. 
-Libraries: Install necessary Python libraries using:
+8. Libraries: Install necessary Python libraries using:
 
 pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
 
-Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
+9.Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 
 10. Explore the Data
 
